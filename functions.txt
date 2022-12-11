@@ -1,0 +1,17 @@
+average(){
+        len=$#
+        sum=0
+
+        for x in "$@"
+        do
+                sum=$((sum + x))
+        done
+
+        avg=$((sum/len))
+        return $avg
+        }
+
+average 20 30 60 80
+
+printf "%f" "$?"
+printf "\n"

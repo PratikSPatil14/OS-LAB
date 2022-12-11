@@ -1,0 +1,59 @@
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 15	Toggle: 0	TLC: 0	TTC: 23	TTL: 21	TLL: 1	S	R	4	6
+
+HOPE FOR IT                             
+THERE IS NO HOPE                        
+BUT STILL HOPE                          
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 12	Toggle: 1	TLC: 3	TTC: 13	TTL: 12	TLL: 3	H	 	 	 
+
+3 LITTLE PIGS WENT TO OS CLASS.         
+THE WOLF ATE ONE!                       
+2 LITTLE PIGS WENT TO OS CLASS.         
+THE WOLF ATE ONE!                       
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 12	Toggle: 0	TLC: 4	TTC: 18	TTL: 17	TLL: 7	S	R	2	0
+
+*                                       
+*   *                                   
+*   *   *                               
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 11	Toggle: 0	TLC: 3	TTC: 18	TTL: 16	TLL: 5	S	R	5	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL20	TLL2	L	R	5	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL10	TLL3	P	D	2	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL8	TLL3	P	D	2	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL4	TLL1	L	R	2	2
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL7	TLL2	L	R	2	6
+
+ABCD                                    
+ACD                                     
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 9	Toggle: 0	TLC: 2	TTC: 13	TTL: 12	TLL: 4	B	T	1	0
+
+   RAT                                  
+   SAT                                  
+   ON                                   
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 9	Toggle: 0	TLC: 3	TTC: 14	TTL: 13	TLL: 4	G	D	5	0
+

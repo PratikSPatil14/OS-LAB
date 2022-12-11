@@ -1,0 +1,23 @@
+echo "Enter a string:"
+read str
+echo "String :" $str
+
+echo "Length of the string"
+len=${#str}
+echo $len
+
+rev_string=""
+
+for (( i=$len-1; i>=0; i-- ))
+do
+        rev_string="$rev_string${str:$i:1}"
+done
+echo "Reversed string is:"
+echo "$rev_string"
+
+if [ $str == $rev_string ]
+then
+        echo "$str is palindrome"
+else
+        echo "$str is not palindrome"
+fi

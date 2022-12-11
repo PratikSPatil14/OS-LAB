@@ -1,0 +1,24 @@
+echo "Enter String 1:"
+read str1
+echo "str1 :" $str1
+
+echo "Enter String 2:"
+read str2
+echo "string2 :" $str2
+
+echo "length of the string"
+len=${#str1}
+echo $len
+
+echo "concatenation of strings"
+echo $str1$str2
+
+echo "lowercase str1 : "
+echo ${str1,,}
+
+echo "uppercase: "
+echo ${str2^^}
+
+echo "slicing of string1: "
+new1=${str1:0:2}
+echo $new1

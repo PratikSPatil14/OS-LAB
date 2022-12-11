@@ -1,0 +1,39 @@
+TY C                                    
+
+Program Terminated abnormally		Out of Data
+IC = 3	Toggle: 0	TLC: 1	TTC: 5	TTL7	TLL2	G	D	2	0
+
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL: 2	TLL: 2	P	D	1	0
+
+
+Program Terminated abnormally		Operation Code Error
+IC = 1	Toggle: 0	TLC: 0	TTC: 1	TTL: 7	TLL: 2	L	D	1	0
+
+
+Program Terminated abnormally		Operand Error
+IC = 0	Toggle: 0	TLC: 0	TTC: 0	TTL: 7	TLL: 2	L	D	1	0
+
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL7	TLL2	G	D	L	o
+
+TYC                                     
+TYD                                     
+
+Program Terminated abnormally		Operand Error
+IC = 4	Toggle: 0	TLC: 2	TTC: 6	TTL: 9	TLL: 2	P	D	2	0
+
+
+Program Terminated abnormally		Operation Code Error
+IC = 5	Toggle: 0	TLC: 2	TTC: 7	TTL: 9	TLL: 2	 	S	R	3
+
+TYC                                     
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 4	Toggle: 0	TLC: 1	TTC: 6	TTL: 5	TLL: 1	L	S	2	0
+
+TY C                                    
+
+Program Terminated abnormally		Out of Data
+IC = 3	Toggle: 0	TLC: 1	TTC: 5	TTL7	TLL2	G	D	2	0
+

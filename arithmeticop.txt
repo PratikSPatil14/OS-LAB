@@ -1,0 +1,17 @@
+echo "Enter num1:"
+read num1
+echo "num1 = "$num1
+
+echo "Enter num2:"
+read num2
+echo "num2="$num2
+
+sum=$(($num1+$num2))
+sub=$(($num1 - $num2))
+prod=$(($num1 * num2))
+div=$(($num1 / $num2))
+
+echo "Sum = $sum"
+echo "Sub = $sub"
+echo "Prod = $prod"
+echo "Div = $div"
